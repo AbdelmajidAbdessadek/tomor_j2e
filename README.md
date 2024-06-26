@@ -4,12 +4,9 @@ Ce projet consiste à créer une plateforme en ligne pour l'achat et la vente de
 ## groupe : 
 Aghnaou Mohamed
 Jamal Omari
-<<<<<<< HEAD
-- KAMAL Taha
-=======
+KAMAL Taha
 Messaoudi Achraf
 Siffar soufiane
->>>>>>> 39c091831c4e47d4608b4a2b8978e1557bbc004a
 
 
 
