@@ -1,14 +1,8 @@
 # Tomor _Errachidia_
 ## Introduction
 Ce projet consiste à créer une plateforme en ligne pour l'achat et la vente de dattes. La plateforme permettra aux producteurs de dattes de mettre en vente leurs produits et aux consommateurs de les acheter directement. L'objectif est de faciliter le commerce des dattes en offrant une solution numérique accessible, efficace et sécurisée.
-## groupe : 
-Aghnaou Mohamed
-Jamal Omari
-KAMAL Taha
-Messaoudi Achraf
-Siffar soufiane
 
-
+## Plan:
 
 - [**Introduction**](#Introduction)
 - [**Fonctionnalités Principales**](#Fonctionnalités-Principales)
@@ -48,6 +42,15 @@ Siffar soufiane
 
 ## Contact
 ###### Pour toute question, veuillez contacter exam123432@gmail.com.
+
+## Groupe : 
+- Aghnaou Mohamed
+- Jamal Omari
+- KAMAL Taha
+- Messaoudi Achraf
+- Siffar soufiane
+- AbdelMajid Abdessadek
+- Ismail ELMOUAK
 
 [Demo Video](https://drive.google.com/file/d/1_c-o6derXarVivtdu0UJuzGYmxpMnFXx/view?usp=drive_link)
 
