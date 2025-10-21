@@ -1,4 +1,4 @@
-# Tomor _Errachidia_
+# Tomor App
 
 ## Introduction
 
